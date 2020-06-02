@@ -14,7 +14,7 @@ kaynak kodunu düzenleyebilir, eklemeler yapabilir ve çalıştırılabilir `.ja
 	
 ### Projeyi Nasıl Çalıştıracağız?
 
-İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden `run` yaparak,
+İDE nize indirmiş olduğunuz kaynak kodları ister İDE üzerinden `run` yaparak, 
 isterseniz de yine İDE niz üzerinden çalışabilir `.jar` dosyasına dönüştürüp kullanabilirsiniz.
 
 ### Proje Geliştirilirken Hangi Teknolojilerden Yararlanıldı?
