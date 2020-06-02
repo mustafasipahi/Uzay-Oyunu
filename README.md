@@ -1,6 +1,6 @@
 # Uzay-Oyunu-Projesi
 
-### Projeni Özeti
+### Projenin Özeti
 
 Bu proje JAVA Programlama Dili ile başlangıç seviyesinde yazılmış bir uzay oyunudur.
 Oyun Tek kişi ile oynanmakta ve bilgisayarın yön tuşları kullanılarakhareket eden cisim vurulmaya çalışılmaktadır.
